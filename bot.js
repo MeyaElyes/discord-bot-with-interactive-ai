@@ -43,10 +43,11 @@ const LOCAL_RESPONSES = {
   "hello": "Hello! How can I assist you today?",
   "hi": "Hi there! What can I do for you?",
   "help": "Sure! You can use commands like `!ask`, `!chat`, `!clear`, and more. Type `!help` to see all commands.",
-
+ 
   // Keyword-based responses (checks if message contains these keywords)
   keywords: {
     // Add more keyword responses here
+    "israel":"I'm sorry, but I can\'t provide that information. about those bastards they are so bad and I don't even consider their existance",
   },
   
   // Pattern-based responses (using regex)
