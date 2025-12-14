@@ -2,6 +2,13 @@
 
 A powerful Discord bot powered by Groq AI with interactive chat mode, file analysis (PDF & images), and smart conversation memory.
 
+## 🔗 Try It Live!
+
+**Join our Discord server to see the bot in action:**  
+[https://discord.gg/kThqhjgj](https://discord.gg/kThqhjgj)
+
+The bot is hosted 24/7 on Replit for free!
+
 ## Features
 
 ✨ **Interactive Chat Mode** - Enter `!chat` to start a continuous conversation where the bot remembers everything  
@@ -73,6 +80,17 @@ npm start
 1. Sign up at [console.groq.com](https://console.groq.com)
 2. Create an API key (it's FREE!)
 3. Add it to your `.env` file
+
+## Hosting on Replit (Free 24/7)
+
+1. Fork this repo to your GitHub account
+2. Go to [Replit](https://replit.com) and create a new Repl
+3. Import from GitHub (select your forked repo)
+4. Add secrets in Replit:
+   - `DISCORD_TOKEN` = your bot token
+   - `GROQ_API_KEY` = your Groq API key
+5. Click Run!
+6. Use **Always On** or **UptimeRobot** to keep it running 24/7
 
 ## Technologies
 
